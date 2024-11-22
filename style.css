@@ -216,6 +216,15 @@ h1 span {
     padding: 2rem;
     border-radius: 1rem;
 }
+.form_login2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400%;
+    background-color: var(--blanco);
+    border-radius: 10px;
+}
 
 .formulario legend {
     text-align: center;
